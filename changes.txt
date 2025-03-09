@@ -27,3 +27,4 @@
 "Commit The text ensures." 
 "Commit The society transforms." 
 "Commit The mousse enforces." 
+"Commit The protest selects." 
